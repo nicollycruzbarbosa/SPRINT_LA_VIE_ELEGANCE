@@ -174,4 +174,5 @@ Ainda será realizado...
 <p>Ao finalizarmos o projeto SCRUM, atualizamos as páginas do nosso site, a documentação e realizamos a apresentação final para demonstrar como tudo foi realizado</p>
 <h4>Segue o arquivo da nossa apresentação:</h4>
 
-- [Uploading La Vie Elegance - SPRINT .pdf…]()
+- [La Vie Elegance - SPRINT .pdf](https://github.com/user-attachments/files/19763762/La.Vie.Elegance.-.SPRINT.pdf)
+
