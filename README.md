@@ -48,11 +48,13 @@ no botão "Sair").
 
 Cronograma
 
-<img width="335" alt="image" src="https://github.com/user-attachments/assets/e809f4a1-6411-49cf-879c-7622ee9016ff" />
+<img width="308" alt="image" src="https://github.com/user-attachments/assets/73273004-b75b-4f16-8499-c2df9f7d610b" />
+
 
 Kanban
 
-<img width="449" alt="image" src="https://github.com/user-attachments/assets/21217218-ea47-4fd3-9a8f-1b08f8ea5d31" />
+<img width="942" alt="image" src="https://github.com/user-attachments/assets/d5e4a734-a6e4-4573-a57f-0be8a575121a" />
+
 
 <h2>Sprint 1</h2>
 <p>Na Sprint 1 realizamos:</p>
@@ -167,12 +169,19 @@ Processo de diagramação do fluxo dedados
 
 <h1>Sprint 3</h1>
 
-Ainda será realizado...
+<p>Na Sprint 3 realizamos:</p>
+
+- Elaboração do backend com o website completo;
+  
+- Entrega do relatório técnico (padrão ABNT);
+  
+- Apresentação do projeto final.
 
 </div>
 
 <p>Ao finalizarmos o projeto SCRUM, atualizamos as páginas do nosso site, a documentação e realizamos a apresentação final para demonstrar como tudo foi realizado</p>
 <h4>Segue o arquivo da nossa apresentação:</h4>
 
-- [La Vie Elegance - SPRINT .pdf](https://github.com/user-attachments/files/19763762/La.Vie.Elegance.-.SPRINT.pdf)
+- [La Vie Elegance - SPRINT .pdf](https://github.com/user-attachments/files/20165320/La.Vie.Elegance.-.SPRINT.pdf)
+
 
