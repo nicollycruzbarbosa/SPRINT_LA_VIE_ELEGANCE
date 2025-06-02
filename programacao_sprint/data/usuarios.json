@@ -1,0 +1,44 @@
+[
+    {
+        "username": "Belli",
+        "email": "belli@gmail.com",
+        "password": "$2y$12$FEDO7n8g.iyH5EO1KG8kd.L8LyAOW\/5OMnvjOb9skyqpoGmZotFki",
+        "perfil": "admin"
+    },
+    {
+        "username": "Sarah",
+        "email": "sarah@gmail.com",
+        "password": "$2y$12$yYyZmeEz4Xz31GaYzTycF.Yz08e4ux\/BbmWFfrmCEmXAp1OqRMxZe",
+        "perfil": "admin"
+    },
+    {
+        "username": "Livia",
+        "email": "livia@gmail.com",
+        "password": "$2y$12$X82kfAGRY2qQWHuWMtO4HejJ14Vx7XyYcgVIlxraNMpi1qSRkMHUy",
+        "perfil": "admin"
+    },
+    {
+        "username": "Nicolly",
+        "email": "nicolly@gmail.com",
+        "password": "$2y$12$F1CkDUlGa\/DBpqzdOJhSWe6iyHDSBfZXgII6n0wE4JeurWlGW\/W0m",
+        "perfil": "admin"
+    },
+    {
+        "username": "Natalia",
+        "email": "natalia@gmail.com",
+        "password": "$2y$12$Ff2w8LNuST37xWe2a4H8YOAvAqgUhU59gYuCNAljc2gGrgdCqGDLC",
+        "perfil": "admin"
+    },
+    {
+        "username": "Rafael",
+        "email": "rafael@gmail.com",
+        "password": "$2y$12$v\/qEjV0OAcL\/VIDhlLypbuzVF7XTE0972dzvElRtPbc2ARkV1DMj6",
+        "perfil": "usuario"
+    },
+    {
+        "username": "Alexandre",
+        "email": "xandao@gmail.com",
+        "password": "$2y$12$sHRF\/O7GtRKPHBPXuFTBXeZNfKSRtxQn02ZL7Nn1wqM1x2OqRmrsi",
+        "perfil": "admin"
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "name": "locadora/roupas",
+    "description": "Sistema de Aluguel de Roupas",
+    "type": "project",
+    
+    "autoload": {
+        "psr-4": {
+            "Interfaces\\":"interfaces/",
+            "Models\\": "models/",
+            "Services\\": "services/"
+        }
+
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}

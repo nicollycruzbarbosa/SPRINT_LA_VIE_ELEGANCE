@@ -1,0 +1,37 @@
+[
+    {
+        "tipo": "Blazer",
+        "nome": "Sobretudo Longo Chocolate",
+        "marca": "Tch\u00ea Inverno",
+        "imagem": "..\/img\/683db705f1780.jpg",
+        "disponivel": true
+    },
+    {
+        "tipo": "Terno_c",
+        "nome": "Terno Acetinado",
+        "marca": "Urban Basics",
+        "imagem": "..\/img\/683db71b54cef.jpg",
+        "disponivel": false
+    },
+    {
+        "tipo": "Vestido_d",
+        "nome": "Vestido Casamento Delicado",
+        "marca": "St. Patrick",
+        "imagem": "..\/img\/683db72c3f8aa.jpg",
+        "disponivel": true
+    },
+    {
+        "tipo": "Blazer",
+        "nome": "Blazer Preto Masculino",
+        "marca": "COOFANDY",
+        "imagem": "..\/img\/683db7361192b.png",
+        "disponivel": false
+    },
+    {
+        "tipo": "Vestido_l",
+        "nome": "Vestido floral branco Feminino",
+        "marca": "Beach Club",
+        "imagem": "..\/img\/683db73e1fc7d.jpg",
+        "disponivel": true
+    }
+]
