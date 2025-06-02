@@ -1,4 +1,4 @@
-# Projeto quase finalizado ...
+# Projeto Finalizado!
 
 # Integrantes
 
